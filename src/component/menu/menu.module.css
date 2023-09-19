@@ -1,0 +1,23 @@
+.menu{ 
+    position: sticky;
+    top:0;
+    list-style-type:none;
+    margin:0px ;
+    padding:5px;
+    text-align:right ;
+    background-color: aquamarine;
+}
+.menu>li{
+    display:inline;
+    font-size:25px;
+    line-height: 30px;
+    margin:20px;
+    letter-spacing:4px ;
+    cursor:pointer;
+    color:#003366;
+    font-weight: bold;
+}
+.nav{
+    position: sticky;
+    top:0px;
+}
