@@ -1,0 +1,24 @@
+.dv{
+    display:inline-block;
+    width:500px;
+    height:400px;
+    background-color:#ff66cc;
+    color:white;
+    font-family: serif;
+    font-size:24px;
+    margin-left:5%;
+}
+.img{
+    margin-left:7%;
+}
+.dv1{
+    font-size:20px;
+    color:black
+}
+.m{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.m1{
+    background-color:yellow ;
+}
