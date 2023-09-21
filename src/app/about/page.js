@@ -13,7 +13,7 @@ const About=()=>{
        There are many things that we can learn from our parents. For example, they know how to balance work and family life.</p>
     </div>
     <div className="col-sm-6">
-    <Image src='/parent.jpg' height={150} width={300}></Image>
+    <Image src='/bs.jpg' height={150} width={300}></Image>
     </div>
   </div>
   <div className={`row ${style.dv1}`}>
