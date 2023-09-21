@@ -6,7 +6,7 @@ const About=()=>{
  return(
    <div className={`text-center container ${style.dv}`}>
   <h3><marquee width="30%" className={style.mar}>About My Family</marquee></h3>
-  <div className={`row ${style.dv}`}>
+  <div className={`row ${style.dv1}`}>
     <div className="col-sm-6">
       <p><b>Mom and Dad:</b>My Mom and Dad are my best friends. They are always there for us, no matter what the situation is. 
       They have been through everything with us, and they always been there to help us out.  In return, we owe them our utmost respect and gratitude.

@@ -1,6 +1,20 @@
-.r{
- margin-top:25px;
-}
+
 .clr{
     background-color: #ff99ff;
+    margin-top:30px;
 }
+@media screen and (max-width:320px) {
+    
+.clr{
+   margin-left:60px;
+}
+.r>div{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+}
+@media screen and (min-width:321px)and (max-width:1600px) {
+    .r{
+        margin-top:25px;
+       }
+} 
