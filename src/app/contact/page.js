@@ -6,7 +6,7 @@ const A=()=>{
  return(
     
     <div className={`text-center container ${style.clr}`}><h3>Contact</h3>
-  <div className="row">
+  <div className={`row ${style.r}`}>
     <div className="col-sm-4">
      <Image src='/papa2.jpeg' height={250} width={250} ></Image>
     </div>

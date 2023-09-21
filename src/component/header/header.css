@@ -1,6 +1,20 @@
-.header{
-    font-size:50px;
-    font-weight:bold;
-    color: aliceblue;
-    background-color:#7300e6;
+
+@media screen and (max-width:320px) {
+    .header{
+        display: inline-block;
+        font-size:30px;
+        font-weight:bold;
+        color: aliceblue;
+        width:450px;
+        height:60px;
+        padding-right:30px ;
+    }
+}
+@media screen and (min-width:321px)and (max-width:1600px) {
+    .header{
+        font-size:50px;
+        font-weight:bold;
+        color: aliceblue;
+        background-color:#7300e6;
+    }
 }

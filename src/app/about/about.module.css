@@ -2,6 +2,11 @@
     background-color: #ffff80 ;
     margin-top:20px;
 }
+@media screen and (max-width:320px) {
+    .dv{
+        margin-left:60px;
+    }
+}
 .dv{
     margin-top:20px;
     background-color:#ff33cc;
