@@ -22,7 +22,7 @@ const A=()=>{
      <Image src='/dip.jpeg' height={250} width={250} ></Image>
     </div>
     <div className="col-sm-4">
-    <Image src='/triveni.jpeg' height={250} width={250} ></Image>
+    <Image src='/trisha.jpeg' height={250} width={250} ></Image>
     </div>
     <div className="col-sm-4">
     <Image src='/pappu.jpg' height={250} width={250} ></Image>

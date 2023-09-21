@@ -5,16 +5,17 @@
         font-size:30px;
         font-weight:bold;
         color: aliceblue;
-        width:450px;
+        width:600px;
         height:60px;
         padding-right:30px ;
     }
 }
 @media screen and (min-width:321px)and (max-width:1600px) {
     .header{
-        font-size:50px;
+        font-size:45px;
         font-weight:bold;
         color: aliceblue;
         background-color:#7300e6;
+        padding-right:30px ;
     }
 }
